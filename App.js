@@ -15,7 +15,6 @@ export default function App() {
       keyExtractor={(item, index)=> item.name + index}
       renderItem={({ item })=> <ExerciseListItem item={item} />}
     />
-      
       <StatusBar style="auto" />
     </View>
   );
