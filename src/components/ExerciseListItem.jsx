@@ -26,9 +26,19 @@ const styles = StyleSheet.create({
       fontWeight: '600',
     },
     exerciseContainer:{
-      backgroundColor: '#fff',
+      backgroundColor: 'beige',
       padding:10,
       borderRadius:10,
+      gap:5,
+      marginHorizontal:2,
+        shadowColor:'#000',
+        shadowOffset: {
+            width:0,
+            height: 1
+        },
+        shadowOpacity:0.4,
+        shadowRadius:1.41,
+        elevation:3,
     },
     subValue:{
         textTransform: "capitalize"
