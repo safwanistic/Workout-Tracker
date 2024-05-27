@@ -7,4 +7,4 @@ export default function RootLayout(){
         <Stack.Screen name="index" options={{title:'List of Exercises'}}></Stack.Screen>
     </Stack>
     );
-}
+} 
