@@ -4,7 +4,7 @@
 The Workout Tracker application would allow you to view the list of exercises and would show more about the exercise (ie: the muscles involved, or the equipment that would be used)
 
 ## Acknowledgement
-This application idea was taken from the stream from (https://github.com/Savinvadim1312)
+This application idea was taken from the stream from [](https://github.com/Savinvadim1312)
 
 ## About the App
 - This application is built on React Native, using Expo.
